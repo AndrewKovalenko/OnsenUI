@@ -21180,7 +21180,6 @@ angular.module("templates/checkbox.tpl", []).run(["$templateCache", function($te
     "<span ng-transclude>\n" +
     "\n" +
     "</span>\n" +
-    "<span>Isolated scope model {{value}}</span>\n" +
     "</label>\n" +
     "");
 }]);
